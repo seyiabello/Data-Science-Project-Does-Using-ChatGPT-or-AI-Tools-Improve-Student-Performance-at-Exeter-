@@ -13,7 +13,7 @@ It includes written documentation, Python code for data simulation and analysis,
 ## 📸 Project Group Meeting  
 Below is an image of me meeting with my group during the Week 7 peer-review session:  
 
-![Group Meeting](/mnt/data/datasciencestructure.PNG)
+![Group Meeting](images/datasciencepresentationtogroup.jpg)
 
 ---
 
